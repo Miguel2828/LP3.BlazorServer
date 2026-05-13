@@ -4,7 +4,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-LP3_BlazorServer-011888de-51d4-4c06-9357-ca8afe0eb7b0</UserSecretsId>
+    <UserSecretsId>aspnet-LP3_BlazorServer-1221a0f1-48b8-41bf-9289-506e59e44f86</UserSecretsId>
     <BlazorDisableThrowNavigationException>true</BlazorDisableThrowNavigationException>
   </PropertyGroup>
 

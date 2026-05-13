@@ -2,7 +2,7 @@ using LP3.BlazorServer.Domain.Entidades;
 using LP3.BlazorServer.Domain.Enums;
 using LP3.BlazorServer.Shared.DTOs;
 
-namespace MiProyectoAcademico.Shared.Extensions;
+namespace LP3.BlazorServer.Shared.Extensions;
 
 public static class EstudianteExtensions
 {
